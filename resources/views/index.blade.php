@@ -40,7 +40,7 @@
                     {{csrf_field()}}
                     <div class="dz-message">
                         <span class="note">...تصاوير ملک خود را آپلود کنيد...</span>
-                        <span class="note"><br>حداقل 1 و حداکثر 20 تصوير با حداکثر حجم هر تصوير 5 مگابايت</span>
+                        <span class="note"><br>حداقل 1 و حداکثر 20 تصوير با حداکثر حجم هر تصوير 100 مگابايت</span>
                         <span class="note"><br>برای حذف تصویر از لیست آپلود بر روی عکس کلیک کنید</span>
                     </div>
                     <div class="dropzone-previews"></div>
