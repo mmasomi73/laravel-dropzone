@@ -2,6 +2,8 @@
 
 -------------------------
 `Dropzone.js` Customize for Upload Image To Laravel backend and Compress Image Size with `Intervention\Image` 
+
+
 ![Larave Dropzone Image Upload & Compression](http://mmasomi.ir/gitass/dropzone-2.jpg) 
 ![Larave Dropzone Image Upload & Compression](http://mmasomi.ir/gitass/dropzone-1.jpg) 
 ## Uses
